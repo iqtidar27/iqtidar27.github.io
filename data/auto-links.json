@@ -1,0 +1,14 @@
+[
+  { "text": "North South University", "url": "https://www.northsouth.edu/", "desc": "North South University" },
+  { "text": "NSU", "url": "https://www.northsouth.edu/", "desc": "NSU" },
+  { "text": "NTNU", "url": "https://www.ntnu.edu/", "desc": "NTNU" },
+
+  { "text": "Marine and Maritime Intelligent Robotics", "url": "https://www.master-mir.eu", "desc": "MIR" },
+  { "text": "Université de Toulon", "url": "https://www.univ-tln.fr/", "desc": "Université de Toulon" },
+  { "text": "University of Toulon", "url": "https://www.univ-tln.fr/", "desc": "Université de Toulon" },
+
+  { "text": "Islamic University of Technology", "url": "https://www.iutoic-dhaka.edu/", "desc": "Islamic University of Technology" },
+  { "text": "IUT", "url": "https://www.iutoic-dhaka.edu/", "desc": "IUT" }
+
+
+]

@@ -1,0 +1,60 @@
+.course-container {
+  max-width: 900px;
+  margin: auto;
+  padding: 40px 20px;
+}
+
+#course-title {
+  margin-bottom: 20px;
+  font-size: 28px;
+}
+
+/* FILTER BAR */
+.filter-bar {
+  margin-bottom: 20px;
+}
+
+.filter-bar button {
+  background: transparent;
+  border: 1px solid #64ffda;
+  color: #64ffda;
+  padding: 6px 12px;
+  margin-right: 10px;
+  cursor: pointer;
+  border-radius: 6px;
+  transition: 0.3s;
+}
+
+.filter-bar button:hover {
+  background: #64ffda;
+  color: #0a192f;
+}
+
+/* RESOURCE CARD */
+.resource {
+  background: #112240;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  transition: 0.3s;
+}
+
+.resource:hover {
+  background: #233554;
+}
+
+.resource a {
+  color: #64ffda;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.resource p {
+  margin-top: 8px;
+  font-size: 14px;
+  color: #8892b0;
+}
+
+.resource.hidden {
+  display: none;
+}

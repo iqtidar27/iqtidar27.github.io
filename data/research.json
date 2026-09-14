@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Video Analytics Systems",
+    "desc": "Real-time detection, tracking, and behavior analysis from industrial video feeds."
+  },
+  {
+    "title": "Visual SLAM",
+    "desc": "Robust localization and mapping under challenging visual conditions."
+  },
+  {
+    "title": "Learning-based Perception",
+    "desc": "Combining deep learning with geometric methods for scene understanding."
+  }
+]

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>EEE241: Electrical Circuit 2</title>
+
+  <!-- Global CSS -->
+  <link rel="stylesheet" href="../style.css">
+
+  <!-- Course-specific CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="course-container">
+    <h1 id="course-title">Loading...</h1>
+
+    <div class="filter-bar">
+      <button onclick="filterItems('all')">All</button>
+      <button onclick="filterItems('lecture')">Lectures</button>
+      <button onclick="filterItems('exam')">Exams</button>
+      <button onclick="filterItems('assignment')">Assignments</button>
+    </div>
+
+    <div id="resource-list"></div>
+  </div>
+
+  <script>
+    const JSON_FILE = "EEE241.json";
+  </script>
+
+  <script src="script.js"></script>
+</body>
+</html>

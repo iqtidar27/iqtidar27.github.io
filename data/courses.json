@@ -1,0 +1,28 @@
+[
+  {
+    "title": "CSE 327 Software Engineering",
+    "desc": "Follows the software life cycle – from requirement, specification, and design phases through the construction of actual software. Topics include management of programming teams, programming methodologies, debugging aids, documentation, evaluation and measurement of software, verification and testing techniques, and the problems of maintenance, modification, and portability.",
+    "nsuLink": "https://ece.northsouth.edu/courses/cse-327/",
+    "localLink": null
+  },
+
+  {
+    "title": "CSE 225 Data Structures and Algorithms",
+    "desc": "This course is about an introduction to the theory and practice of data structuring techniques. Topics include internal data representation, abstract data types (ADT), stacks, queues, list structures, recursive data structures, trees, regraphs and networks. Concept of object orientation as a data abstraction technique will be introduced.",
+    "nsuLink": "https://ece.northsouth.edu/courses/cse-225/",
+    "localLink": null
+  },
+  
+  {
+    "title": "CSE 373 Design and Analysis of Algorithms",
+    "desc": "This course introduces basic methods for the design and analysis of efficient algorithms emphasizing methods useful in practice. Different algorithms for a given computational task are presented and their relative merits evaluated based on performance measures. The following important computational problems will be discussed: sorting, searching, elements of divide-and-conquer, dynamic programming and greedy algorithms, advanced data structures, graph algorithms (shortest path, spanning trees, tree traversals), string matching, NP completeness.",
+    "nsuLink": "https://ece.northsouth.edu/courses/cse-373/"
+  },
+
+  {
+    "title": "CSE 146 Introduction to Cybersecurity",
+    "desc": "The course covers physical security basics, operating system hardening (patch management, strong passwords with managers, firewalls, driver updates), access control and identity management (AAA, MAC/DAC/RBAC/ABAC models, MFA, SSO), web security threats and defenses (XSS, SQL injection, HTTPS, safe downloads, scareware, browser plugins, Tor), malware types and protection (antivirus best practices, ransomware response), social engineering risks on social media, secure email practices (phishing detection, end-to-end encryption), mobile device security, cloud protection (encryption, 2FA, leak checks), network privacy (VPN, DNS changes, Tor Ghost), and incident response with strong emphasis on backups and disaster recovery planning.",
+    "nsuLink": null
+  }
+  
+]

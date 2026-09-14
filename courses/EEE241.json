@@ -1,0 +1,29 @@
+{
+  "course_title": "EEE241: Electrical Circuit 2",
+  "resources": [
+    {
+        "title": "Resonance in RLC Circuits",
+        "link": "https://colab.research.google.com/drive/1CdkUCT7-Qzc1avzWeLojulISLB8Q3YWF?usp=sharing",
+        "description": "Introduction to Resonance in RLC Circuits.",
+        "type": "lecture"
+    },
+    {
+        "title": "Power Triangle, Power Factor and Correction",
+        "link": "https://colab.research.google.com/drive/1LXE0B8ZZZKd1d6WJae2eLOFZE1v8aGuF?usp=sharing",
+        "description": "Introduction to Power Triangle, Power Factor and Correction.",
+        "type": "lecture"
+    },
+    {
+        "title": "Three Phase Generation",
+        "link": "https://colab.research.google.com/drive/1hj3Q6g-gmLA_PlLJ03aDHn189ktVYzGf?usp=sharing",
+        "description": "Introduction to three-phase power generation.",
+        "type": "lecture"
+    },
+    {
+      "title": "Assignment 1",
+      "link": "https://docs.google.com/document/d/17CaHaxGSLqED0rBQJ4TBVlhHYzFlyYAveuaY0VnOWGs/edit?usp=sharing",
+      "description": "Assignment on AC circuit analysis and Phasors",
+      "type": "assignment"
+    }
+  ]
+}

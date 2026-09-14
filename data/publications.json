@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Janus: A Novel Secret Key Generation Framework Combining W-State  QKD and Post-Quantum Authentication",
+    "authors": "Md. Rayhan Kabir Khan, Md. Fahim Shahoriar Titu, Istiak Ahammed, AKM Iqtidar Newaz, Riasat Khan",
+    "venue": "23rd International Conference on Security and Cryptography (SECRYPT)",
+    "year": 2026,
+    "link": "https://www.researchgate.net/profile/Istiak-Ahammed-2/publication/410604169_Janus_A_Novel_Secret_Key_Generation_Framework_Combining_W-State_QKD_and_Post-Quantum_Authentication/links/6a6a440ef475b23f400f0d1b/Janus-A-Novel-Secret-Key-Generation-Framework-Combining-W-State-QKD-and-Post-Quantum-Authentication.pdf"
+  },
+  {
+    "title": "Systematic Threat Analysis of Modern Unified Healthcare Communication Systems",
+    "authors": "AKM Iqtidar Newaz, Ahmet Aris, Amit Kumar Sikder, and A Selcuk Uluagac",
+    "venue": "GLOBECOM 2022 - 2022 IEEE Global Communications Conference",
+    "year": 2022,
+    "link": "https://doi.org/10.1109/GLOBECOM48099.2022.10001605"
+  },  
+  {
+    "title": "A Survey on Security and Privacy Issues in Modern Healthcare Systems: Attacks and Defenses",
+    "authors": "AKM Iqtidar Newaz, Amit Kumar Sikder, Mohammad Ashiqur Rahman, and A. Selcuk Uluagac",
+    "venue": "ACM Transactions on Computing for Healthcare",
+    "year": 2021,
+    "link": "https://doi.org/10.1145/3453176" 
+  },
+  {
+    "title": "Adversarial Attacks to Machine Learning-based Smart Healthcare Systems",
+    "authors": "AKM Iqtidar Newaz, Nur Imtiazul Haque, Amit Kumar Sikder, Mohammad Ashiqur Rahman, and A Selcuk Uluagac",
+    "venue": "GLOBECOM 2020-2020 IEEE Global Communications Conference",
+    "year": 2020,
+    "link": "https://doi.org/10.1109/GLOBECOM42002.2020.9322472" 
+  },
+  {
+    "title": "Heka: A Novel Intrusion Detection System for Attacks to Personal Medical Devices",
+    "authors": "AKM Iqtidar Newaz, Amit Kumar Sikder, Leonardo Babun, and A Selcuk Uluagac",
+    "venue": "2020 IEEE Conference on Communications and Network Security (CNS)",
+    "year": 2020,
+    "link": "https://doi.org/10.1109/CNS48642.2020.9162311" 
+  },
+  {
+    "title": "Healthguard: A Machine Learning-based Security Framework for Smart Healthcare Systems",
+    "authors": "AKM Iqtidar Newaz, Amit Kumar Sikder, Mohammad Ashiqur Rahman, and A Selcuk Uluagac",
+    "venue": "2019 sixth international conference on social networks analysis, management and security (SNAMS)",
+    "year": 2019,
+    "link": "https://doi.org/10.1109/SNAMS.2019.8931716" 
+  },
+  {
+    "title": "A Modified Algorithm for DNA Motif Finding and Ranking Considering Variable Length Motif and Mutation",
+    "authors": "Adnan Ferdous Ashrafi, AK M Iqtidar Newaz, Rasif Ajwad, Moin Mahmud Tanvee, and Md A Mottalib",
+    "venue": "2015 IEEE 2nd International Conference on Recent Trends in Information Systems (ReTIS)",
+    "year": 2015,
+    "link": "https://doi.org/10.1109/ReTIS.2015.7232844" 
+  }
+]
