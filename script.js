@@ -305,6 +305,15 @@ function applyAutoLinks(root) {
 window.addEventListener("DOMContentLoaded", async () => {
   document.body.classList.add("light");
 
+  const currentPage = (location.pathname.split("/").pop() || "index.html").toLowerCase();
+  document.querySelectorAll(".nav-links a").forEach(link => {
+    const href = (link.getAttribute("href") || "").split("/").pop().toLowerCase();
+    if (!href || href.endsWith(".pdf")) return;
+    if (href === currentPage || (currentPage === "" && href === "index.html")) {
+      link.classList.add("active");
+    }
+  });
+
   await loadAutoLinks();
 
   await Promise.all([

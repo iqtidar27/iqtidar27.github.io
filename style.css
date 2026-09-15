@@ -595,3 +595,25 @@ body.light .auto-link:hover {
 #projects-container .community-block a:hover {
   color: #0e7d8e;
 }
+
+.nav-links a {
+  padding: 4px 2px;
+  border-bottom: 2px solid transparent;
+  transition: color 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+}
+
+.nav-links a:hover {
+  color: #58a6ff;
+  border-bottom-color: #58a6ff;
+}
+
+.nav-links a.active {
+  color: #58a6ff;
+  font-weight: 700;
+  border-bottom-color: #58a6ff;
+}
+
+.cv-btn:hover,
+.cv-btn.active {
+  border-bottom: 1px solid #58a6ff;
+}
