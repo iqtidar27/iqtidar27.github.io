@@ -27,8 +27,8 @@
 .courses-vertical .card p {
   font-size: 1rem;
   line-height: 1.6;
+  text-align: justify;
 }
-
 .courses-vertical .card h4 {
   font-size: 1.35rem;
   color: #1400cc;
